@@ -20,7 +20,7 @@
 
 ## 🛠 Tech Stack
  
-- 💻 &nbsp; HTML | CSS | JavaScript | Python | PHP.
+- 💻 &nbsp; HTML | CSS | JavaScript | Python | PHP | WordPress.
 - 🌐 &nbsp; Elementor | SASS | Bootstrap | Pandas | NumPy.
 - 🛢 &nbsp; MySQL | Xampp.
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git.
