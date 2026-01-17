@@ -13,8 +13,6 @@
 - 📝 I have a interest in Data Science and Artificial Intelligence.
 - 🌐 You can see some of my projects on [My Portfolio](https://mostaql.com/u/Ayyobsam/portfolio).
 - 💬 Ask me about JavaScript ,Python and UI/UX Design.
-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1qggV_DpwPrKiV-SDh7XivGL7TjAQFUnT/edit?usp=share_link&ouid=115396013903992046630&rtpof=true&sd=true" target="_blank">My Resume.</a>
-</pre>
 
 <br>
 
